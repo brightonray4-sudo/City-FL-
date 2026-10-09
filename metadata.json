@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nairobi Safari: Wild Horizons",
+  "description": "Kenyan open-world 3D adventure featuring Nairobi\u0027s bustling street markets, dynamic trade economy, custom matatus, and untamed savannah wildlife.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
